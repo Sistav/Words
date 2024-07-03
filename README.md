@@ -10,7 +10,8 @@ The repository is organized into three plaintext txt files.
 
 ## Project Background
 I created this list to generate usernames for an application I was working on but feel free to use the repo in any way you want.
-There are no words in the list with dashes or other symbols (currently), just words containing only letters.
+
+There are no words in the list with dashes or other symbols (for now), just words containing only letters.
 
 ## Contribution
 Suggestions, edits, or additional words/files are more than welcome, please open an issue or submit a pull request.
