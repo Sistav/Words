@@ -3,7 +3,7 @@
 **Words** is a collection of safe and unoffensive words. 
 
 ## Structure
-The repository is organized into three plaintext txt files.
+The repository currently has three plaintext txt files.
 - **Verbs.txt**: Contains a list of verbs.
 - **Adjectives.txt**: Contains a list of adjectives.
 - **Nouns.txt**: Contains a list of nouns.
